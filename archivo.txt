@@ -1,1 +1,1 @@
-Version 2 del archivo
+Version 2 del archivo donde ignore el fetch
